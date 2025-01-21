@@ -1,0 +1,16 @@
+/* CSS */
+body {
+    font-family: Arial, sans-serif;
+}
+header, section {
+    padding: 20px;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: blue;
+}
+.section {
+    height: 100vh;
+    border: 1px solid #ddd;
+}
